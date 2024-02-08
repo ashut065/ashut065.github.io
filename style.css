@@ -501,7 +501,7 @@ section .title::after {
 
 .skills .skills-content .left .paragraph-2 {
   font-size: 1.15rem;
-  color: rgb(201, 200, 212);
+  color: rgb(240, 240, 247);
 }
 
 .skills .skills-content .left .p {
@@ -511,13 +511,13 @@ section .title::after {
 .skills .skills-content .left a {
   display: inline-block;
   background: none;
-  color: rgb(192, 190, 211);
+  color: rgb(234, 233, 239);
   margin-top: 1.25rem;
   font-size: 1.25rem;
   font-weight: 500;
   padding: .3rem 1.3rem;
   border-radius: 6px;
-  border: 2px solid rgb(189, 188, 202);
+  border: 2px solid rgb(242, 241, 245);
   transition: all 0.3s ease;
 }
 
@@ -527,7 +527,7 @@ section .title::after {
 
 .skills .skills-content .right .icons {
   font-size: 50px;
-  color: rgb(201, 198, 228);
+  color: rgb(237, 236, 245);
   display: flex;
   margin-bottom: 5px;
   align-items: center;
@@ -535,7 +535,7 @@ section .title::after {
   transition: all 0.3s ease;
   padding-top: 1.25rem;
   padding-bottom: 1.25rem;
-  border-bottom: 2px solid rgb(160, 160, 168);
+  border-bottom: 2px solid rgb(242, 242, 248);
 }
 
 .skills .skills-content .right .icons img {
